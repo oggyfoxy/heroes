@@ -1,6 +1,7 @@
 # Heroes vs Villain 
 
-![image](https://user-images.githubusercontent.com/72557460/226176562-3b3b6fea-1785-4657-956b-5ce4c602977e.png)
+![image](https://github.com/oggyfoxy/heroes/assets/72557460/7902e70e-e069-4511-ab32-04893221b6a3)
+
 
 
 This project is for the Heroes vs Villain game for CT1207.
